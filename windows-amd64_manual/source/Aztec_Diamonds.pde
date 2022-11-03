@@ -14,7 +14,7 @@ void draw() {
   //saveFrame("frames/####.png");
   //noLoop();
   //if(frameCount % ((int)(frameRate) * 1) == 0)
-    mouseClicked();
+    //mouseClicked();
 }
 
 void mouseClicked() {
